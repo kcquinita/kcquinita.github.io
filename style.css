@@ -1,0 +1,41 @@
+h1 {  
+    font-size: 30px; 
+	font-family:  Monospace;
+}  
+h2 {  
+    font-size: 20px; 
+	font-family:  Monospace;
+} 
+p{  
+    font-style: italic;
+	font-family: Courier New;
+	margin-left: auto;
+    margin-right: auto;
+    width:25em;
+	text-align: justify;
+	font-size: 15px;
+}  
+body{   
+	text-align: center;
+	background-color: #F5F8F8;
+}
+.title1{
+	font-family:  Monospace;
+	font-size: 60px;
+	font-style: bold;
+	text-align: center;
+}
+
+.title2{
+	font-family:  Courier New;
+	font-size: 20px;
+	font-style: italic;
+	text-align: center;
+}
+
+.info {  
+    font-size: 15px; 
+	font-family:  Monospace;	
+	font-style: bolder;
+}
+
